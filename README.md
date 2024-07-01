@@ -1,4 +1,4 @@
-# code
-to lenvage the deep learning model 
+# use
 run visable result.py
+# env
 use requirements get same venv
